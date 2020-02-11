@@ -1,0 +1,14 @@
+form {
+    margin: 0 10em;
+    padding-bottom: 2em;
+
+}
+
+.loading {
+ text-align: center;
+}
+
+.tweets {
+    width: 80%;
+    margin: 0 auto;
+}
